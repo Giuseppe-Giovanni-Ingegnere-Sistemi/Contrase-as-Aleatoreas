@@ -1,6 +1,6 @@
 # Generador de Contraseñas Aleatorias
 
--Este script en Python genera una contraseña aleatoria de una longitud especificada por el usuario. Utiliza una combinación de letras, dígitos y caracteres especiales para crear contraseñas seguras.
+Este script en Python genera una contraseña aleatoria de una longitud especificada por el usuario. Utiliza una combinación de letras, dígitos y caracteres especiales para crear contraseñas seguras.
 
 # Características
 
@@ -36,10 +36,11 @@ Puedes personalizar el conjunto de caracteres que se utilizan para generar la co
 caracteres = string.ascii_letters + string.digits
 ```
 
-Contribuciones
+# Contribuciones
 
 Las contribuciones son bienvenidas. Si tienes sugerencias para mejorar el script, no dudes en hacer un fork del proyecto y enviar un pull request.
 
-Licencia
+# Licencia
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
+  
