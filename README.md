@@ -1,4 +1,4 @@
-#Generador de Contraseñas Aleatorias
+## Generador de Contraseñas Aleatorias
 
 Este script en Python genera una contraseña aleatoria de una longitud especificada por el usuario. Utiliza una combinación de letras, dígitos y caracteres especiales para crear contraseñas seguras.
 
